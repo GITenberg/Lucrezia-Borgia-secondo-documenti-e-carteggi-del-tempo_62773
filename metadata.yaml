@@ -1,0 +1,44 @@
+_repo: Lucrezia-Borgia-secondo-documenti-e-carteggi-del-tempo_62773
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mariano, Raffaele
+    alias: Mariano, Raphael
+    birthdate: 1840
+    deathdate: 1912
+    gutenberg_agent_id: '52118'
+    url: http://www.gutenberg.org/2009/agents/52118
+    wikipedia: https://it.wikipedia.org/wiki/Raffaele_Mariano
+creator:
+  author:
+    agent_name: Gregorovius, Ferdinand
+    aliases:
+    - Gregorovius, Ferdinando
+    - Gregorovius, Ferdinand Adolf
+    birthdate: 1821
+    deathdate: 1891
+    gutenberg_agent_id: '9530'
+    url: http://www.gutenberg.org/2009/agents/9530
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ferdinand_Gregorovius
+    - https://de.wikipedia.org/wiki/Ferdinand_Gregorovius
+description: ''
+gutenberg_bookshelf: IT Biografie
+gutenberg_issued: '2020-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62773'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Borgia, Lucrezia, 1480-1519'
+- !lcsh 'Nobility -- Papal States -- Biography'
+- !lcsh 'Italy -- History -- 1492-1559'
+- !lcsh 'Renaissance -- Italy'
+- !lcsh 'Papal States -- History -- Julius II, 1503-1513'
+- !lcc 'DG'
+- GITenberg
+title: Lucrezia Borgia secondo documenti e carteggi del tempo
+url: http://www.gutenberg.org/ebooks/62773
